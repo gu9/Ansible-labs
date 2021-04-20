@@ -1,11 +1,11 @@
-###Description
+### Description
 The very first step to harnessing the power of Ansible is configuring your environment. This activity goes over installing Ansible on a control node and configuring two managed servers for use with Ansible. We will also create a simple inventory and run an Ansible command to verify our configuration is correct.
 
-###Objectives
+### Objectives
 Successfully complete this lab by achieving the following learning objectives:
 
 
-####Install Ansible on the control node.
+#### Install Ansible on the control node.
 To install Ansible on the control node, run ```sudo yum install ansible```.
 
 
