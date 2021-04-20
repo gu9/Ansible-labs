@@ -1,7 +1,9 @@
 ### Objectives
 Successfully complete this lab by achieving the following learning objectives:
 Set up /etc/ansible/hosts
-Use the credentials and public IP address provided on the hands-on lab page to get into Server1 (The host instance). Since we need root privileges, let's just run sudo -i right off and become root.
+Use the credentials and public IP address provided on the hands-on lab page to get into Server1 (The host instance). Since we need root privileges,
+
+let's just run sudo -i right off and become root.
 
 Our inventory file should look something like this:
 ```
